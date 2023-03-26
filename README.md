@@ -3,4 +3,4 @@ Creating a demo github action
 
 > Using this [guide](https://lo-victoria.com/series/github-actions) as the reference
 
-![status](https://github.com/harshcurious/github-action-demo/actions/workflows/ci-cd.yml/badge.svg)
+![status](https://github.com/harshcurious/github-action-demo/actions/workflows/CI_CD.yml/badge.svg)
